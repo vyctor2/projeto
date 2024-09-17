@@ -1,0 +1,34 @@
+.caixa {
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    padding-left: 25px;
+}
+
+.caixa h3 {
+    background-color: blue;
+    color: black;
+    padding: 5px;
+    margin-top: 0;
+    border-radius: 3px;
+    text-align: center;
+}
+
+.caixa ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.caixa ul li {
+    margin: 5px 0;
+}
+
+li {
+    text-decoration: underline black;
+    list-style-type: square;
+    list-style-position: outside;
+    padding-left: 10px;
+}
